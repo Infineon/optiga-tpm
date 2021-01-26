@@ -28,7 +28,7 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 
 1. [Infineon Embedded Linux TPM Toolbox 2](https://github.com/Infineon/eltt2)
 2. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
-3. [TPM remote attestations](https://github.com/Infineon/remote-attestation-optiga-tpm)
+3. [TPM remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
 
 ## Documentation
 
