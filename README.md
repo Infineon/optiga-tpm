@@ -25,12 +25,17 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 
 ## Get Started
 
-1. [Infineon Embedded Linux TPM Toolbox 2](https://github.com/Infineon/eltt2)
-2. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
-3. [TPM pkcs11](https://github.com/Infineon/pkcs11-optiga-tpm)
-6. [TPM remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
-7. [TPM psoc6 aws iot](https://github.com/Infineon/mtb-example-psoc6-aws-iot-optiga-tpm)
-8. [TPM ek based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+1. [Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2)
+ 
+2. [AWS IoT Greengrass Hardware Security Integration: <br />  Provide hardware-based endpoint device security with Infineon's OPTIGA™ TPM SLx 9670](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
+ 
+3. [OPTIGA™ TPM SLx 9670 integration to create PKCS11 token](https://github.com/Infineon/pkcs11-optiga-tpm)
+ 
+6. [OPTIGA™ TPM SLx 9670 - TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
+ 
+7. [OPTIGA™ TPM SLx 9670 TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit  <br />  to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/mtb-example-psoc6-aws-iot-optiga-tpm)
+ 
+8. [OPTIGA™ TPM SLx 9670 TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
 
 ## Documentation
 
