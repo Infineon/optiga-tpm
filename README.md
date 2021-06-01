@@ -10,8 +10,8 @@ OPTIGA™ TPM (Trusted Platform Module) offers a broad portfolio of standardized
 
 OPTIGA™ TPM security controllers are ideal for platforms running both Windows and Linux andd its derivatives (SLB 9645 product versions for Chrome OS available). Based on Trusted Computing Group (TCG) standards, they support the TPM 1.2 or the latest innovative TPM 2.0 standard.
 
-#![](https://github.com/Infineon/Assets/blob/master/Pictures/optiga_tpm_general.png)
-
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/optiga_tpm_general.png" width="384" height="264">
+ 
 ## Key Features and Benefits
 
 * High-end security controller with advanced cryptographic algorithms implemented in hardware (e.g. RSA & ECC256, SHA-256)
