@@ -21,7 +21,7 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
  
 * Reduced risk based on proven technology
 * Fast time to market through concept reuse
-* Easy integration into all platform architectures and operating systems (Windows, Linux & derivatives
+* Easy integration into all platform architectures and operating systems (Windows, Linux & derivatives)
 
 ## Get Started
 
