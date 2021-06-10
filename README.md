@@ -17,7 +17,6 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 * High-end security controller with advanced cryptographic algorithms implemented in hardware (e.g. RSA & ECC256, SHA-256)
 * Common Criteria (EAL4+) and FIPS security certification
 * Flexible integration thanks to SPI, I2C or LPC interface support
-* Extended temperature range (-40 to +85°C) for a variety of applications
  
 * Reduced risk based on proven technology
 * Fast time to market through concept reuse
