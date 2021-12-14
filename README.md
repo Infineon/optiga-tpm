@@ -8,7 +8,7 @@
 
 OPTIGA™ TPM (Trusted Platform Module) offers a broad portfolio of standardized security controllers to protect the integrity and authenticity of embedded devices and systems. With a secured key store and support for a variety of encryption algorithms, OPTIGA™ TPM security chips provide robust protection for critical data and processes through their rich functionality.
 
-OPTIGA™ TPM security controllers are ideal for platforms running both Windows and Linux andd its derivatives (SLB 9645 product versions for Chrome OS available). Based on Trusted Computing Group (TCG) standards, they support the TPM 1.2 or the latest innovative TPM 2.0 standard.
+OPTIGA™ TPM security controllers are ideal for platforms running both Windows and Linux and its derivatives (SLB 9645 product versions for Chrome OS available). Based on Trusted Computing Group (TCG) standards, they support the TPM 1.2 or the latest innovative TPM 2.0 standard.
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/optiga_tpm_general.png" width="384" height="264">
  
@@ -22,7 +22,7 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 * Fast time to market through concept reuse
 * Easy integration into all platform architectures and operating systems (Windows, Linux & derivatives)
 
-## Get Started
+## Application Notes
 
 1. [Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2)
  
@@ -30,11 +30,13 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
  
 3. [OPTIGA™ TPM SLx 9670 integration to create PKCS11 token](https://github.com/Infineon/pkcs11-optiga-tpm)
  
-6. [OPTIGA™ TPM SLx 9670 - TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
+4. [OPTIGA™ TPM SLx 9670 - TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
  
-7. [OPTIGA™ TPM SLx 9670 TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit  <br />  to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/mtb-example-psoc6-aws-iot-optiga-tpm)
+5. [OPTIGA™ TPM SLx 9670 TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit  <br />  to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
  
-8. [OPTIGA™ TPM SLx 9670 TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+6. [OPTIGA™ TPM SLx 9670 TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+
+7. [OPTIGA™ TPM SLx 9670 TPM2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
 
 ## Documentation
 
