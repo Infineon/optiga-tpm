@@ -35,23 +35,19 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 
 ## Tools
 
-1. For a quick TPM startup (e.g., evaluation): [Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2)
+1. [Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup 
     - Can be compiled on Linux, other OS, and embedded platforms
     - Startup tool with basic functions
 
 ## Application Notes
- 
-1. [AWS IoT Greengrass Hardware Security Integration: <br />  Provide hardware-based endpoint device security with Infineon's OPTIGA™ TPM SLx 9670](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
- 
-2. [OPTIGA™ TPM SLx 9670 integration to create PKCS11 token](https://github.com/Infineon/pkcs11-optiga-tpm)
- 
-3. [OPTIGA™ TPM SLx 9670 - TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
- 
-4. [OPTIGA™ TPM SLx 9670 TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit  <br />  to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
- 
-5. [OPTIGA™ TPM SLx 9670 TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
 
-6. [OPTIGA™ TPM SLx 9670 TPM2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
+### OPTIGA™ TPM SLx 9670
+1. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
+2. [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
+3. [TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
+4. [TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
+5. [TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+6. [TPM2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
 
 ## Documentation and Other Application Notes
 
