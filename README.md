@@ -35,7 +35,7 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 
 ## Tools
 
-1. [Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup 
+1. [ELTT2 - Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup 
     - Can be compiled on Linux, other OS, and embedded platforms
     - Startup tool with basic functions
 
@@ -45,9 +45,11 @@ OPTIGA™ TPM security controllers are ideal for platforms running both Windows 
 1. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
 2. [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
 3. [TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
-4. [TPM2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit to enable TPM backed onboarding to AWS IoT Core.](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
-5. [TPM2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
-6. [TPM2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
+4. [TPM 2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit to enable TPM backed onboarding to AWS IoT Core](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
+5. [TPM 2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+6. [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
+7. [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
+8. [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
 
 ## Documentation and Other Application Notes
 
