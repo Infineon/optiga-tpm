@@ -38,11 +38,14 @@ Keeping secret keys safe and well secured is at the heart of IoT security. See b
 
 ## Use Cases
 
-* Verification of device authenticity
-* Device identity for network access control
 * Automatic device onboarding (e.g.,  AWS Greengrass and Azure IoT edge)
-* Secured communication with TLS 
 * Device health attestation
+* Device identity for network access control
+* Secret (configuration data, IP, and etc) protection
+* Secured communication with TLS
+* Secured firmware update
+* Secured key storage
+* Verification of device authenticity
 
 ## Tools
 
