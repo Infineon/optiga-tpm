@@ -17,21 +17,35 @@
 
 ## Description
 
-OPTIGA™ TPM (Trusted Platform Module) offers a broad portfolio of standardized security controllers to protect the integrity and authenticity of embedded devices and systems. With a secured key store and support for a variety of encryption algorithms, OPTIGA™ TPM security chips provide robust protection for critical data and processes through their rich functionality.
+The OPTIGA™ TPM 2.0 is a ready-to-use security building block, which is fully compliant with the Trusted Computing Group (TCG) specifications, to protect the platform integrity and authenticity of connected devices. It can also be used to protect encryption keys, and sensitive data so that attackers and malware can't access or tamper with that data.
 
-OPTIGA™ TPM security controllers are ideal for platforms running both Windows and Linux and its derivatives (SLB 9645 product versions for Chrome OS available). Based on Trusted Computing Group (TCG) standards, they support the TPM 1.2 or the latest innovative TPM 2.0 standard.
+All OPTIGA™ TPM 2.0 products are based on Infineon's advanced hardware security technology and certified according to common criteria and FIPS security certification, making them an ideal solution for PC, servers, network infrastructure equipment (e.g., gateways, routers, wireless access points and switches) and other IoT devices with strong security requirements.
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/optiga_tpm_general.png" width="384" height="264">
+**Why is software-only security often not enough?**
+
+Keeping secret keys safe and well secured is at the heart of IoT security. See below why **OPTIGA™ TPM** is the preferred choice for this challenge.
+
+<img src="https://github.com/Infineon/optiga-tpm/blob/develop-newlayout/pictures/summary.png">
  
 ## Key Features and Benefits
 
 * High-end security controller with advanced cryptographic algorithms implemented in hardware (e.g. RSA & ECC256, SHA-256)
 * Common Criteria (EAL4+) and FIPS security certification
 * Flexible integration thanks to SPI, I2C or LPC interface support
- 
 * Reduced risk based on proven technology
 * Fast time to market through concept reuse
 * Easy integration into all platform architectures and operating systems (Windows, Linux & derivatives)
+
+## Use Cases
+
+* Automatic device onboarding (e.g.,  AWS Greengrass and Azure IoT edge)
+* Device health attestation
+* Device identity for network access control
+* Secret (configuration data, IP, and etc) protection
+* Secured communication with TLS
+* Secured firmware update
+* Secured key storage
+* Verification of device authenticity
 
 ## Tools
 
