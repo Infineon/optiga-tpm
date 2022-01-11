@@ -25,7 +25,7 @@ All OPTIGA™ TPM 2.0 products are based on Infineon's advanced hardware securit
 
 Keeping secret keys safe and well secured is at the heart of IoT security. See below why **OPTIGA™ TPM** is the preferred choice for this challenge.
 
-<img src="https://github.com/Infineon/optiga-tpm/blob/develop-newlayout/pictures/summary.png">
+<img src="https://github.com/Infineon/optiga-tpm/raw/main/pictures/summary.png">
  
 ## Key Features and Benefits
 
