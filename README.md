@@ -11,8 +11,8 @@
 <a href="https://github.com/Infineon/optiga-tpm#tools">
     <img src="https://github.com/Infineon/optiga-tpm/blob/main/pictures/tile-tools.jpg" width="192" height="144">
 </a>
-<a href="https://github.com/Infineon/optiga-tpm#application-notes">
-    <img src="https://github.com/Infineon/optiga-tpm/blob/main/pictures/tile-appnotes.jpg" width="192" height="144">
+<a href="https://github.com/Infineon/optiga-tpm#resources">
+    <img src="https://github.com/Infineon/optiga-tpm/blob/main/pictures/tile-resources.jpg" width="192" height="144">
 </a>
 
 ## Description
@@ -53,9 +53,12 @@ Keeping secret keys safe and well secured is at the heart of IoT security. See b
     - Can be compiled on Linux, other OS, and embedded platforms
     - Startup tool with basic functions
 
-## Application Notes
+## Resources
 
 ### OPTIGA™ TPM SLx 9670
+
+Below are links to Github resources from Infineon to help you get started and find your way around:
+
 1. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
 2. [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
 3. [TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
