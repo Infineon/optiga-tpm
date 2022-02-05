@@ -67,6 +67,7 @@ Below are links to Github resources from Infineon to help you get started and fi
 6. [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
 7. [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
 8. [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
+9. [OPTIGA™ TPM 2.0 Explorer GUI Tool](https://github.com/Infineon/optiga-tpm-explorer)
 
 ## Documentation and Other Application Notes
 
