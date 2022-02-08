@@ -47,17 +47,23 @@ Keeping secret keys safe and well secured is at the heart of IoT security. See b
 * Secured key storage
 * Verification of device authenticity
 
-## Tools
-
-1. [ELTT2 - Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup 
-    - Can be compiled on Linux, other OS, and embedded platforms
-    - Startup tool with basic functions
-
 ## Resources
 
-### OPTIGA™ TPM SLx 9670
+Here you will find a list of relevant resouces which can can help you to study and learn TPM2.0.
 
-Below are links to Github resources from Infineon to help you get started and find your way around:
+### Tools
+
+CMD-line and GUI tools running on Linux:
+
+1. [ELTT2 - Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup
+   - Startup tool with basic functions in CMD-line
+   - Can be compiled on Linux, other OS, and embedded platforms
+2. [OPTIGA™ TPM 2.0 Explorer GUI tool for Raspberry Pi](https://github.com/Infineon/optiga-tpm-explorer)
+   - The ease of use of GUI has made it possible for all users in general, regardless of experience or knowledge, to access all kinds of OPTIGA™ TPM 2.0 features and use cases for commonly use
+
+### Open Source Host Code
+
+OPTIGA™ TPM 2.0 host code and documentations are now available as open source repository on GitHub:
 
 1. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
 2. [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
@@ -67,8 +73,13 @@ Below are links to Github resources from Infineon to help you get started and fi
 6. [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
 7. [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
 8. [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
-9. [OPTIGA™ TPM 2.0 Explorer GUI Tool](https://github.com/Infineon/optiga-tpm-explorer)
 
-## Documentation and Other Application Notes
+### Application notes
 
-For high level description and some important excerpts from the documentation please refer to [documents](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/?redirId=39899#!documents).
+These documents are intended for customers who want to evaluate how to start with the TPM software integration for their target applications:
+
+1. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 4 Linux environment](https://www.infineon.com/dgdl/Infineon-OPTIGA_SLx_9670_TPM_2.0_Pi_4-ApplicationNotes-v07_19-EN.pdf?fileId=5546d4626c1f3dc3016c3d19f43972eb)
+2. [Integration of TLS Functionality for OPTIGA™ TPM SLx 9670 TPM 2.0](https://www.infineon.com/dgdl/Infineon-OPTIGA_TPM_SLx9670_TPM_2.0-ApplicationNotes-v01_00-EN.pdf?fileId=5546d46271bf4f920171c5598a3a0e7b)
+3. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with integrated TPM Driver](https://www.infineon.com/dgdl/Infineon-App-Note-SLx9670-TPM2.0_Embedded_RPi_DI_SLx-ApplicationNotes-v01_03-EN.pdf?fileId=5546d46267c74c9a01684b96e69f5d7b)
+4. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with TPM Driver Patch](https://www.infineon.com/dgdl/Infineon-App-Note-SLB9670-TPM2.0-and-RaspberryPi-3-ApplicationNotes-v01_20-EN.zip?fileId=5546d46265257de8016537f329595e5c)
+
