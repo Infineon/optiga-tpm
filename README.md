@@ -73,6 +73,8 @@ OPTIGA™ TPM 2.0 host code and documentations are now available as open source 
 6. [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
 7. [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
 8. [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
+9. [TPM 2.0 command reference and code examples](https://github.com/Infineon/optiga-tpm-cheatsheet)
+10. [Guide to Integrating TPM 2.0 with the Android Open Source Project (AOSP)](https://github.com/Infineon/optiga-tpm-aosp)
 
 ### Application notes
 
