@@ -55,33 +55,36 @@ Here you will find a list of relevant resouces which can can help you to study a
 
 CMD-line and GUI tools running on Linux:
 
-1. [ELTT2 - Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup
+- [ELTT2 - Infineon Embedded Linux TPM Toolbox 2 for TPM 2.0](https://github.com/Infineon/eltt2) for a quick TPM startup
    - Startup tool with basic functions in CMD-line
    - Can be compiled on Linux, other OS, and embedded platforms
-2. [OPTIGA™ TPM 2.0 Explorer GUI tool for Raspberry Pi](https://github.com/Infineon/optiga-tpm-explorer)
+- [OPTIGA™ TPM 2.0 Explorer GUI tool for Raspberry Pi](https://github.com/Infineon/optiga-tpm-explorer)
    - The ease of use of GUI has made it possible for all users in general, regardless of experience or knowledge, to access all kinds of OPTIGA™ TPM 2.0 features and use cases for commonly use
 
 ### Open Source Host Code
 
 OPTIGA™ TPM 2.0 host code and documentations are now available as open source repository on GitHub:
 
-1. [AWS IoT Greengrass Hardware Security Integration](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
-2. [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
-3. [TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
-4. [TPM 2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit to enable TPM backed onboarding to AWS IoT Core](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
-5. [TPM 2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
-6. [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
-7. [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
-8. [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
-9. [TPM 2.0 command reference and code examples](https://github.com/Infineon/optiga-tpm-cheatsheet)
-10. [Guide to Integrating TPM 2.0 with the Android Open Source Project (AOSP)](https://github.com/Infineon/optiga-tpm-aosp)
+- [AWS IoT Greengrass Hardware Security Integration (archived)](https://github.com/Infineon/amazon-greengrass-hsi-optiga-tpm)
+- [PKCS11 token creation](https://github.com/Infineon/pkcs11-optiga-tpm)
+- [TPM-based remote attestation](https://github.com/Infineon/remote-attestation-optiga-tpm)
+- [TPM 2.0 integration for PSoC 6 Wi-Fi BT Prototyping Kit to enable TPM backed onboarding to AWS IoT Core](https://github.com/Infineon/psoc6-aws-iot-optiga-tpm)
+- [TPM 2.0 used with EK based onboarding](https://github.com/Infineon/ek-based-onboarding-optiga-tpm)
+- [TPM 2.0 backed Linux Trusted and Encrypted Keys](https://github.com/Infineon/linux-trusted-key-optiga-tpm)
+- [TPM 2.0 in U-Boot on Raspberry Pi 4](https://github.com/joholl/rpi4-uboot-tpm)
+- [Extend measurements to TPM 2.0 PCR in U-Boot on Raspberry Pi 4](https://github.com/wxleong/tpm2-uboot-rpi4)
+- [TPM 2.0 command reference and code examples](https://github.com/Infineon/optiga-tpm-cheatsheet)
+- [Guide to Integrating TPM 2.0 with the Android Open Source Project (AOSP)](https://github.com/Infineon/optiga-tpm-aosp)
 
 ### Application notes
 
 These documents are intended for customers who want to evaluate how to start with the TPM software integration for their target applications:
 
-1. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 4 Linux environment](https://www.infineon.com/dgdl/Infineon-OPTIGA_SLx_9670_TPM_2.0_Pi_4-ApplicationNotes-v07_19-EN.pdf?fileId=5546d4626c1f3dc3016c3d19f43972eb)
-2. [Integration of TLS Functionality for OPTIGA™ TPM SLx 9670 TPM 2.0](https://www.infineon.com/dgdl/Infineon-OPTIGA_TPM_SLx9670_TPM_2.0-ApplicationNotes-v01_00-EN.pdf?fileId=5546d46271bf4f920171c5598a3a0e7b)
-3. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with integrated TPM Driver](https://www.infineon.com/dgdl/Infineon-App-Note-SLx9670-TPM2.0_Embedded_RPi_DI_SLx-ApplicationNotes-v01_03-EN.pdf?fileId=5546d46267c74c9a01684b96e69f5d7b)
-4. [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with TPM Driver Patch](https://www.infineon.com/dgdl/Infineon-App-Note-SLB9670-TPM2.0-and-RaspberryPi-3-ApplicationNotes-v01_20-EN.zip?fileId=5546d46265257de8016537f329595e5c)
-
+- [OPTIGA™ TPM2.0 RPi Quick starter User Guide ](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/optiga-tpm-slb-9672-fw16/#!?fileId=8ac78c8c8e7ead30018ee5a4d85b04bd)
+- [OPTIGA™ TPM2.0 solution: Learn how Infineon is simplifying your IoT security](https://www.infineon.com/dgdl/Infineon-Application_note_OPTIGA_TPM2.0_Learn_how_Infineon_is_simplifying_your_IoT_security-ApplicationNotes-v01_00-EN.pdf?fileId=8ac78c8c7e7124d1017ed36041e31424)
+- [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 4 Linux environment](https://www.infineon.com/dgdl/Infineon-OPTIGA_SLx_9670_TPM_2.0_Pi_4-ApplicationNotes-v07_19-EN.pdf?fileId=5546d4626c1f3dc3016c3d19f43972eb)
+- [Integration of TLS Functionality for OPTIGA™ TPM SLx 9670 TPM 2.0](https://www.infineon.com/dgdl/Infineon-OPTIGA_TPM_SLx9670_TPM_2.0-ApplicationNotes-v01_00-EN.pdf?fileId=5546d46271bf4f920171c5598a3a0e7b)
+- [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with integrated TPM Driver](https://www.infineon.com/dgdl/Infineon-App-Note-SLx9670-TPM2.0_Embedded_RPi_DI_SLx-ApplicationNotes-v01_03-EN.pdf?fileId=5546d46267c74c9a01684b96e69f5d7b)
+- [Integration of an OPTIGA™ TPM SLx 9670 TPM2.0 with SPI Interface in a Raspberry Pi® 3 Linux environment with TPM Driver Patch](https://www.infineon.com/dgdl/Infineon-App-Note-SLB9670-TPM2.0-and-RaspberryPi-3-ApplicationNotes-v01_20-EN.zip?fileId=5546d46265257de8016537f329595e5c)
+- [Infineon SLB 9645 / SLB 9670 TPM 1.2 with Embedded Platform Integration on a Raspberry Pi® 2](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/#!?fileId=5546d46255a50e820155b535d44d754f)
+- [OPTIGA™ TPM1.2 SLB 9645 RPi B Beagle Board Linux](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/#!?fileId=5546d462525dbac40152eef62415429b)
